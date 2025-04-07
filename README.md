@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I automate so well, I even tried to script my morning coffee...still debugging the caffeine delivery pipeline!
 
 <!---
-komal-sketch/komal-sketch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+komal-sketch/komal-sketch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile..
 You can click the Preview link to take a look at your changes.
 --->
